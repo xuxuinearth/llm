@@ -9,7 +9,7 @@ $$ \text{SwiGLU}(a, b) = \text{Swish}(a) \odot \sigma(b) $$
 - **σ(b)** = sigmoid(b)  — 门控信号（0~1 之间）
 - **⊙** 表示逐元素乘法（Hadamard 乘积）
 
----
+
 
 ### 直观理解
 
