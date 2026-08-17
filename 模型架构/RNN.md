@@ -10,4 +10,4 @@ h_t = \phi\left( W \cdot [h_{t-1}; x_t] + b_h \right)
     =\phi\left(w_h \cdot h_{t-1}+w_x \cdot x_t+ b_h \right)
 
 3、为什么RNN具有遗忘历史信息性，如下图所示。
-![图片描述](../picture/RNN.png)
+![图片描述](../picture/RNN遗忘.png)
