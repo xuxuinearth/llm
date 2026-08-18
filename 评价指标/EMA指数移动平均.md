@@ -1,0 +1,1 @@
+EMA（Exponential Moving Average）

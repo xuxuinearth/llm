@@ -15,3 +15,4 @@
 
 ## 问题
 1、在FNN中为什么使用ReLU激活函数
+2、transformer中为什么decoder中的第一个模块没有FNN+add&norm ?
